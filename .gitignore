@@ -1,0 +1,12 @@
+.vs
+Build
+Binaries
+.vscode
+DerivedDataCache
+Intermediate
+Saved
+Script
+Plugins/Plots/Binaries
+Plugins/Plots/Intermediate
+Plugins/UDPPlugin/Intermediate
+Plugins/UDPPlugin/Binaries
